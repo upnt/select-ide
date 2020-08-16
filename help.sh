@@ -1,0 +1,20 @@
+#! bin/bash
+my_help () {
+    echo "------------------------------------------"
+    echo "| command list"
+    echo "|   run"
+    echo "|   update"
+    echo "|   help"
+    echo "------------------------------------------"
+    echo "| run"
+    echo "|   use ide in language list"
+    echo "| update"
+    echo "|   update all ide in language list"
+    echo "| help"
+    echo "|   show help"
+    echo "------------------------------------------"
+    echo "| language list"
+    echo "|   python"
+    echo "|   typescript"
+    echo "------------------------------------------"
+}
